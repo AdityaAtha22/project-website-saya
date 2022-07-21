@@ -1,0 +1,40 @@
+body {
+	margin-top: 50px;
+}
+
+hr {
+	width: 250px;
+	border-top: 3px solid #999;
+}
+
+section {
+	min-height: 600px;
+}
+
+/* Jumbotron */
+.jumbotron img {
+	width: 200px;
+	border: 4px solid rgb(53, 49, 49);
+}
+
+/* About */
+.about {
+	margin-top: -30px;
+}
+
+/* Portfolio */
+.portfolio {
+	background-color: #eee;
+}
+
+/* Contact */
+.contact {
+	min-height: 800px;
+}
+
+/* Footer */
+footer {
+	background-color: #111;
+	padding: 20px 0;
+	color: #aaa;
+}
